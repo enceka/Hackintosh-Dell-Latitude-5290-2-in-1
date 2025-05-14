@@ -26,14 +26,11 @@
 ## SSDT
 
 - SSDT-ALC225.aml [Sleep Headphone Output Fix]
-- SSDT-DEEPIDLE.aml ***[Only For Thunderbolt 3 Model]*** //HAVENT TESTED
 - SSDT-EC-USBX.aml [USB Power Control]
 - SSDT-PLUG.aml [PluginType=1]
 - SSDT-PNLF.aml [Brightness Control]
 - SSDT-PRTSC-F13.aml [PrtScr Key to F13 Key]
 - SSDT-RMNE.aml [Null Ethernet]
-- SSDT-TB3.aml ***[Only For Thunderbolt 3 Model]*** //HAVENT TESTED
-- SSDT-TYPC.aml ***[Only For Thunderbolt 3 Model]*** //HAVENT TESTED
 - SSDT-UPRW.aml [Prevent wake from USB, Fix some USB issues]
 - SSDT-XOSI.aml [OS Check Fix for Brightness Control Key, Power Button, 
 Touch Screen]
@@ -80,7 +77,7 @@ Touch Screen]
 - SMCLightSensor.kext
 - SMCProcessor.kext
 - SMCSuperIO.kext
-- USBPorts.kext    - From laelsirus
+- USBPorts.kext
 - CPUFriend.kext
 - CPUFriendDataProvider.kext
 - VoodooPS2Controller.kext
@@ -124,8 +121,7 @@ But creating it for your system will help you manage power***
 				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-alldata</key>
-				
-<data>AAASAAIAAACYAAAAAQUSAAAEAADHAwAAAgQSAAAEAADHAwAA</data>
+				<data>AAASAAIAAACYAAAAAQUSAAAEAADHAwAAAgQSAAAEAADHAwAA</data>
 				<key>framebuffer-con0-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-fbmem</key>
@@ -217,13 +213,6 @@ src="https://github.com/user-attachments/assets/e8d3d3bf-c6b1-4a66-9467-f56e5ea5
 <img width="867" alt="截屏2025-05-14 20 16 53" 
 src="https://github.com/user-attachments/assets/e53c7419-390a-4373-898a-aac5a9d4739a" 
 />
-
-
-**Original USB Ports**
-![07USBOrigin](https://user-images.githubusercontent.com/46496967/60283654-a36a7680-9944-11e9-8ca0-efb77f46b023.png)
-
-**Edited USB Ports**
-![08USBEdit](https://user-images.githubusercontent.com/46496967/60283655-a49ba380-9944-11e9-98ad-48ce1f903b61.png)
 
 
 
