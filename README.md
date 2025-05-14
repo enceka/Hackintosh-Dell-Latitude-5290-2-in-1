@@ -80,9 +80,9 @@ Touch Screen]
 - SMCLightSensor.kext
 - SMCProcessor.kext
 - SMCSuperIO.kext
-- USBPorts.kext    -    Generated with Hackintool
+- USBPorts.kext    - From laelsirus
 - CPUFriend.kext
-- CPUFriendDataProvider.kext - From laelsirus
+- CPUFriendDataProvider.kext
 - VoodooPS2Controller.kext
 - VoodooPS2Keyboard.kext
 - Airportltlwm.kext
