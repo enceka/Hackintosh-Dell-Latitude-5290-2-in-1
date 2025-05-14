@@ -191,6 +191,7 @@ touchpad)
 - m.2 NVME 2280/ m.2 SATA 2280 1 Slot
 
 ## Issues 
+- Seemed USBPorts and CPUFriendDataProvider havent been loaded properly?Espeacially USBPorts.kext
 - Sleep/Wake/Lid Close Sleep with Travel Keyboard (Sometime can with 
 mode25?IDK)
 - Bluetooth can scan but cannot connect
