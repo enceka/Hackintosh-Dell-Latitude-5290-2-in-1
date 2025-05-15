@@ -183,7 +183,7 @@ But creating it for your system will help you manage power***
 
 ## CLOVER Boot Arguments
 
-- alcid=30 - To make alc255 work
+- alcid=30 - To make alc225 work
 
 ## CLOVER Devices-Properties
 
