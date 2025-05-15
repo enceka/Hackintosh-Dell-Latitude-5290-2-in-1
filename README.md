@@ -1,4 +1,4 @@
-#  Dell Latitude 5290 2-in-1 UHD620 iGPU OpenCore
+#  Dell Latitude 5290 2-in-1 UHD620 iGPU Clover
 
 ## Specifics
 
