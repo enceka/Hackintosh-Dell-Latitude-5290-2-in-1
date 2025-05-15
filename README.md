@@ -286,7 +286,8 @@ touchpad)
 
 ## Issues
 
-- 3.5mm audio output(headphone jack)
+- 3.5mm audio output(headphone jack) havent tested,the jack seemed 
+physically damaged in my device,so need test!
   
 - MicroSD slot havent tested,because i do not have a SDcard,maybe work after install a kernel kext?
 
