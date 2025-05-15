@@ -1,5 +1,8 @@
 #  Dell Latitude 5290 2-in-1 UHD620 iGPU OpenCore
 
+# NOT RECOMMENDED ,MAY NO FURTHER UPDATING
+Sleep/Wake problem was solved by using clover,so have no time to wasting in OpenCore now(MAYBE Future?)
+
 ## Specifics
 
 - CPU : Intel® Core™ i5-8350U Processor (6M Cache, up to 3.60 GHz)
