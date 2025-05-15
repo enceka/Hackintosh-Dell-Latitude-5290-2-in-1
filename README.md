@@ -147,10 +147,10 @@ _VoodooI2C-Patches [http://raw.github.com/alexandred/VoodooI2C-Patches/master]**
 ## Drivers64UEFI
 
 - ApfsDriverLoader.efi [acidanthera_AppleSupportPkg]
-- OcQuirks.efi [ReddestDream_OcQuirks]
-- OpenRuntime.efi [ReddestDream_OcQuirks]
-- VBoxHfs.efi [acidanthera_AppleSupportPkg]
-- VirtualSmc.efi [acidanthera_VirtualSMC]
+- HFSPlus.efi
+- OpenRuntime.efi
+- VBoxHfs.efi
+Other drivers seemed unuseful,you can remove if you want. 
 
 
 ## Kexts
@@ -217,7 +217,7 @@ But creating it for your system will help you manage power***
                 <data>AAAAgA==</data>
             </dict>
 ```
-
+platform-id can be set 0000C087 according to Document of OpenCore
 
 ## ETC
 
