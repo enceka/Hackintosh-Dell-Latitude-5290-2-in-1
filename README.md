@@ -14,7 +14,7 @@
 
 ## Clover Bootloader/macOS Version
 
-- Clover Bootloader : 5155
+- Clover Bootloader : 5161
 - macOS : 13.6
 
 
@@ -146,7 +146,7 @@ _VoodooI2C-Patches [http://raw.github.com/alexandred/VoodooI2C-Patches/master]**
 
 ## Drivers64UEFI
 
-- ApfsDriverLoader.efi [acidanthera_AppleSupportPkg]
+- ApfsDriverLoader.efi
 - HFSPlus.efi
 - OpenRuntime.efi
 - VBoxHfs.efi
