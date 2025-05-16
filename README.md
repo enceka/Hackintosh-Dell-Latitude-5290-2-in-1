@@ -281,17 +281,20 @@ touchpad)
 - m.2 NVME 2280/ m.2 SATA 2280 1 Slot (m.2 NVME 2230(2242)/m.2 SATA 2230(2242) 1 Slot Havent tested,maybe okay)
 
 ***Wireless Communication***
-- Wi-Fi, Bluetooth
-
+- Wi-Fi works fine
+- Bluetooth can scan but cannot connect devices,recommend changing a 
+wireless card
 
 ## Issues
 
 - 3.5mm audio output(headphone jack) havent tested,the jack seemed 
-physically damaged in my device,so need test!
+physically broken in my device,so need test!
   
 - MicroSD slot havent tested,because i do not have a SDcard,maybe work after install a kernel kext?
 
 - I2C front and rear camera (AVStream2500, OV5670, OV8858) not recognized,also not planned
+
+- What's more? need feedback and let me know
 
 ## Screenshots
 
@@ -307,6 +310,3 @@ physically damaged in my device,so need test!
 **Edited USB Ports**
 ![08USBEdit](https://user-images.githubusercontent.com/46496967/60283655-a49ba380-9944-11e9-98ad-48ce1f903b61.png)
 
-
-README_KR
-https://github.com/laelsirus/Dell-Latitude-5290-2-in-1-UHD620-iGPU-CLOVER/blob/master/README_KR.md
