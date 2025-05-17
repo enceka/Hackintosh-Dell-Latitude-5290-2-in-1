@@ -310,3 +310,10 @@ physically broken in my device,so need test!
 **Edited USB Ports**
 ![08USBEdit](https://user-images.githubusercontent.com/46496967/60283655-a49ba380-9944-11e9-98ad-48ce1f903b61.png)
 
+# Credit
+The Project was originally a fork from @laelsirus's 
+repository 
+[https://github.com/laelsirus/Dell-Latitude-5290-2-in-1-CLOVER]
+Thanks for laying the foundation.
+
+And thanks to all contributed to the project of hackintosh.
