@@ -282,8 +282,8 @@ touchpad)
 
 ***Wireless Communication***
 - Wi-Fi works fine
-- Bluetooth can scan but cannot connect devices,recommend changing a 
-wireless card
+- Bluetooth maynot work,but work fined when I upgrade from 12.7.6(IDK what makes it 
+work)
 
 ## Issues
 
