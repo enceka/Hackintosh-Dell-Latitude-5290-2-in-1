@@ -294,6 +294,9 @@ physically broken in my device,so need test!
 
 - I2C front and rear camera (AVStream2500, OV5670, OV8858) not recognized,also not planned
 
+- Hibernate may works not properly,IDK how to fix,sometimes it can use,but after a 
+long time,You may not wake up(though backlight up and sound up).
+
 - What's more? need feedback and let me know
 
 ## Screenshots
